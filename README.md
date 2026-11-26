@@ -36,13 +36,13 @@ The Python GUI communicates with the FPGA through UART, enabling user-defined ci
 ## Hardware Platform
 
 | Parameter | Specification |
-
-| FPGA Board : Basys 3 |
-| FPGA Device : Xilinx Artix-7 XC7A35T |
-| System Clock: 100 MHz |
-| Hardware Description Language : Verilog HDL |
-| Design and Implementation Tool : Xilinx Vivado 2023.2 |
-| Arithmetic Representation : Signed Fixed-Point Q2.14 |
+|---|---|
+| FPGA Board | Basys 3 |
+| FPGA Device | Xilinx Artix-7 XC7A35T |
+| System Clock | 100 MHz |
+| Hardware Description Language | Verilog HDL |
+| Design and Implementation Tool | Xilinx Vivado 2023.2 |
+| Arithmetic Representation | Signed Fixed-Point Q2.14 |
 
 ## Software and Development Tools
 
